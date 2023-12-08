@@ -22,7 +22,7 @@ Possesses strong teamwork, communication, and interpersonal skills. Demonstrated
 
 ## Experience
 - **iMeet Technology** • Internship • 3 months
-  Worked on React, Material-UI, Highcharts, Redux, and Python.
+  Worked on React, talwindcss,html ,css.
 
 - **Echo** • Internship • 5 months
   Worked on React, Material-UI, Highcharts, Redux, and Python.
