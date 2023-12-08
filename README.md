@@ -1,9 +1,11 @@
-# Anukul raj
- #Begusarai, India
-anukulraj2004@gmail.com
+# Anukul Raj
+Begusarai, India
+Email: anukulraj2004@gmail.com
+LinkedIn: https://www.linkedin.com/in/anukul-raj-31b6a2193
+Phone: 7546052674
 
 ## Summary
-Highly-motivated BCA student with proficiency in:
+Highly-motivated BCA student proficient in:
 - HTML, CSS, JavaScript
 - React.js, Next.js, Node.js, Express.js, MongoDB, Git, and Github.
 Possesses strong teamwork, communication, and interpersonal skills. Demonstrated capacity to take initiative and work independently.
@@ -17,23 +19,29 @@ Possesses strong teamwork, communication, and interpersonal skills. Demonstrated
   *Math, Science • Grade: 74.2*
   Completed Intermediate in 2021 from National Institute of Open Schooling (NIOS) with majors in Science and Math.
 
+## Experience
+- **iMeet Technology** • Internship • 3 months
+  Worked on React, Material-UI, Highcharts, Redux, and Python.
+
+- **Echo** • Internship • 5 months
+  Worked on React, Material-UI, Highcharts, Redux, and Python.
+
 ## Projects
-### Movie Data app • Feb 2023 - Mar 2023
+### [Movie Data app](https://deft-bienenstitch-3e154d.netlify.app/) • Feb 2023 - Mar 2023
 - Implemented a movie show data-display app using HTML, CSS, ReactJS, and TailwindCSS.
 - Utilized movie data API for displaying relevant information.
 - Developed a booking feature, storing data in local storage.
 
-### Todoapp • Mar 2023
+### [Todoapp](https://deluxe-raindrop-0818a7.netlify.app/) • Mar 2023
 - Developed a ToDo App using React, Tailwind CSS, Firebase Auth, Context API, and Firebase Store.
 - Enabled Create, Update, and Delete ToDos functionality.
 - Implemented Firebase Auth for user authentication and authorization.
 
-### RazorpaycloneHomepage • Feb 2023
-- Developed a clone of Razorpay's home page using HTML and TailwindCSS.
-- Achieved 95% accuracy in recreating Razorpay's UI.
+### [News Website](https://newskhabhar.netlify.app/) • Feb 2023
+- Developed a News Website React, News Api HTML and TailwindCSS.
 - Optimized the website for mobile responsiveness.
-
-### Tic-tac-toe • Feb 2023
+- 
+### [Tic-tac-toe](https://app.netlify.com/sites/tic-tac-toebyanukul/overview) • Feb 2023
 - Developed a Tic-Tac-Toe game using HTML, CSS, and JavaScript with a glassmorphism effect.
 - Enabled offline playability.
 - Created an interactive UI for an engaging user experience.
