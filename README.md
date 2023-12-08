@@ -1,12 +1,12 @@
 # Anukul Raj
-#Begusarai, India
-#Email: anukulraj2004@gmail.com
-#[LinkedIn](https://www.linkedin.com/in/anukul-raj-31b6a2193)
-#[Github](https://github.com/anukulrajan7)
+Location: Begusarai, India
+Email: anukulraj2004@gmail.com
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anukul-raj-31b6a2193)
+GitHub: [GitHub Profile](https://github.com/anukulrajan7)
 Phone: 7546052674
 
 ## Summary
-Highly-motivated BCA student proficient in:
+Highly motivated BCA student proficient in:
 - HTML, CSS, JavaScript
 - React.js, Next.js, Node.js, Express.js, MongoDB, Git, and Github.
 Possesses strong teamwork, communication, and interpersonal skills. Demonstrated capacity to take initiative and work independently.
@@ -14,7 +14,7 @@ Possesses strong teamwork, communication, and interpersonal skills. Demonstrated
 ## Education
 - **BCA** • IGNOU • Jun 2021 - Present
   *Computer Science*
-  Currently pursuing a Bachelor of Computer Applications degree from Indira Gandhi National Open University, set to be completed in 2024.
+  Pursuing a Bachelor of Computer Applications degree from Indira Gandhi National Open University, expected completion in 2024.
 
 - **Intermediate** • NIOS • Jun 2020 - Jun 2022
   *Math, Science • Grade: 74.2*
@@ -39,9 +39,9 @@ Possesses strong teamwork, communication, and interpersonal skills. Demonstrated
 - Implemented Firebase Auth for user authentication and authorization.
 
 ### [News Website](https://newskhabhar.netlify.app/) • Feb 2023
-- Developed a News Website React, News Api HTML and TailwindCSS.
+- Developed a News Website using React, News API, HTML, and TailwindCSS.
 - Optimized the website for mobile responsiveness.
-- 
+
 ### [Tic-tac-toe](https://app.netlify.com/sites/tic-tac-toebyanukul/overview) • Feb 2023
 - Developed a Tic-Tac-Toe game using HTML, CSS, and JavaScript with a glassmorphism effect.
 - Enabled offline playability.
