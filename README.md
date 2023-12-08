@@ -1,7 +1,8 @@
 # Anukul Raj
 Begusarai, India
 Email: anukulraj2004@gmail.com
-LinkedIn: https://www.linkedin.com/in/anukul-raj-31b6a2193
+LinkedIn: [https://www.linkedin.com/in/anukul-raj-31b6a2193]
+Github: [https://github.com/anukulrajan7]
 Phone: 7546052674
 
 ## Summary
